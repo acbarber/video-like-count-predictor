@@ -23,4 +23,4 @@ just as well as taking the median view counts
 per YouTube channel. This finding represents
 a jumping off point for future research in this
 area, as well as a powerful tool for new content
-creators looking
+creators looking to validate the validity of their ideas.
